@@ -86,5 +86,5 @@ I'm always open to feedback or suggestions. Feel free to open an issue if you ha
 
 ---
 
-Made with ❤️ as part of my learning journey using Scikit-learn.
+Thanks for checking out my project! 🙂
 
