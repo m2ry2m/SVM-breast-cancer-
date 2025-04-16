@@ -86,5 +86,5 @@ I'm always open to feedback or suggestions. Feel free to open an issue if you ha
 
 ---
 
-Thanks for checking out my project! 🙂
+"Thank you for reviewing my project. Your feedback is greatly appreciated."
 
